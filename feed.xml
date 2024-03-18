@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voices Unveiled</title>
+    <link>https://lucasmei.github.io/voices_unveiled/</link>
+    <description>Recent content on Voices Unveiled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lucasmei.github.io/voices_unveiled/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About us!</title>
+      <link>https://lucasmei.github.io/voices_unveiled/aboutus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucasmei.github.io/voices_unveiled/aboutus/</guid>
+      <description>What did we set out to do? As a group, our aim was to delve into the intricate relationship between language and identity, exploring how the use of language can profoundly impact our internal sense of self. Through many brainstorming sessions, we arrived at the idea of creating an online blog/newsletter as our chosen medium. This platform offers us the freedom and flexibility to articulate our thoughts and emotions in diverse ways, allowing each of us to express ourselves authentically.</description>
+    </item>
+  </channel>
+</rss>
